@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shashwati-2002.
+- 👋 Hi, I’m Shashwati.
 - 👀 I’m interested in software and full stack web development.
 - 🌱 I’m currently learning Python, Java and JavaScript.
 - 💞️ I’m looking to collaborate on web development projects.
